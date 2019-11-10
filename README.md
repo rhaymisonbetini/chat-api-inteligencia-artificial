@@ -4,7 +4,7 @@ Este chat foi criado para estudar a comunicação de um chat que consome os dado
 
 # Instalação
 
-Para instalar o chat você deve clocar o repositório em sua máquina. No seu terminal ou Prompt deve rodar o comando:
+Para instalar o chat você deve clonar o repositório em sua máquina. No seu terminal ou Prompt deve rodar o comando:
 `npm install`. Apos todas as dependencias serem instaladas você deve rodar o comando: `ng serve`.
 Após este procedimento basta ir no seu navegador e na url colocar: `localhost:4200`.
 A API já esta configurada e basta apenas trocar mensagens.
